@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/contact_list" android:icon="@drawable/menu_contact_list"
+		android:title="@string/menu_contact_str" />
+	<item android:id="@+id/accounts" android:icon="@drawable/menu_accounts"
+		android:title="@string/menu_account_str" />
+	<item android:id="@+id/about" android:icon="@drawable/menu_about"
+		android:title="@string/menu_about_str" />
+	<item android:visible="false" android:id="@+id/bt_scan" android:title="Scan Devices"
+		android:icon="@drawable/menu_scan_bt" />
+</menu>

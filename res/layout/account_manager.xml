@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:orientation="vertical">
+<ScrollView
+	
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:layout_weight="5"
+	>
+<LinearLayout
+
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:orientation="vertical">
+  
+  <TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:textColor="@color/heading_clr"
+    android:textSize="@dimen/account_heading"
+    android:text="@string/menu_account_str"
+    android:gravity="center"
+    
+    />
+  <TextView
+  	
+  	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:textColor="#435443"
+  	android:background="#ccffcc"
+  	android:text="GTalk"
+  	android:textSize="18dip"
+  	android:textStyle="bold"
+  	android:gravity="center"
+  	android:layout_marginTop="10dip"
+  	/> 
+  <CheckBox
+  	android:id="@+id/gtalk_enable"
+  	android:checked="false"
+  	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:text="Enable GTalk"/>
+  <TextView
+  	android:id="@+id/guser_view"
+  	android:layout_marginTop="5dip"
+  	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:text="Username:"
+  	/>
+  <EditText
+  	android:id="@+id/guser_edit"
+  	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:hint="username@gmail.com"
+  	/>
+  <TextView
+  	android:id="@+id/gpass_view"
+  	android:layout_marginTop="5dip"
+  	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:text="Password:"
+  	/>
+  <EditText
+  	android:id="@+id/gpass_edit"
+  	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:hint="password"
+  	android:inputType="textPassword"
+  	/>
+  	
+  
+  <TextView
+  	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:textColor="#435443"
+  	android:background="#ccffcc"
+  	android:text="Facebook"
+  	android:gravity="center"
+  	android:layout_marginTop="10dip"
+  	android:textSize="18dip"
+  	android:textStyle="bold"
+  	/> 
+  <CheckBox
+  	android:id="@+id/fbook_enable"
+  	android:checked="false"
+  	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:text="Enable Facebook"/>	
+  <TextView
+  	android:id="@+id/fuser_view"
+  	android:layout_marginTop="5dip"
+  	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:text="Username:"
+  	/>
+  <EditText
+  	android:id="@+id/fuser_edit"
+  	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:hint="username"
+  	/>
+  <TextView
+  	android:id="@+id/fpass_view"
+  	android:layout_marginTop="5dip"
+  	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:text="Password:"
+  	/>
+  <EditText
+  	android:id="@+id/fpass_edit"
+  	android:hint="password"
+  	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:inputType="textPassword"
+  	/>
+  	
+  	
+  <TextView
+  	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:textColor="#435443"
+  	android:background="#ccffcc"
+  	android:text="Bluetooth"
+  	android:gravity="center"
+  	android:layout_marginTop="10dip"
+  	android:textSize="18dip"
+  	android:textStyle="bold"
+  	/> 
+  
+  <CheckBox
+  	android:id="@+id/blue_enable"
+  	android:checked="false"
+  	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:text="Enable Bluetooth"/>
+  
+</LinearLayout>
+
+</ScrollView>
+<LinearLayout
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:gravity="center"
+  android:orientation="horizontal"
+  android:layout_marginTop="10dip"
+  android:layout_weight="30">
+	<Button
+		android:id="@+id/acc_save"
+		android:layout_width="100px"
+		android:layout_height="wrap_content"
+		android:gravity="center"
+		android:text="Save"
+		/>
+	<Button 
+		android:id="@+id/acc_cancel" 
+		android:layout_width="100px" 
+		android:layout_height="wrap_content" 
+		android:gravity="center" 
+		android:text="Cancel" />
+	
+  </LinearLayout>
+</LinearLayout>

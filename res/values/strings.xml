@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, welcomeScreen!</string>
+    <string name="app_name">TalkBack</string>
+	<string name="no_acc_msg">There are no accounts configured yet. Please add an account:</string>
+	<string name="next_label">Next</string>
+	<string name="db_name">Talkback</string>
+	<string name="app_pref">myAppPref</string>
+	<string-array name="status_array">
+		<item>Available</item>
+		<item>Away</item>
+		<item>Sign Out</item>
+	</string-array>
+	<string name="spinner_prompt">Select your current status</string>
+	<string name="chat_send_str">Send</string>
+	<string name="chat_entry_hint">Type here...</string>
+	<string name="menu_contact_str">Contact List</string>
+	<string name="menu_account_str">Accounts</string>
+	<string name="menu_about_str">About</string>
+	<string name="app_desc">The Multiprotocol Chat Client For Android</string>
+	<string name="app_version">v0.5</string>
+	<string name="copyright">(c) 2011 Suvish V.T.</string>
+</resources>

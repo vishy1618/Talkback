@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:isScrollContainer="true"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:textColor="@color/heading_clr"
+    android:textSize="@dimen/heading"
+    android:text="@string/app_name"
+    android:gravity="center"
+    />
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/no_acc_msg"
+    android:gravity="center"
+    />
+<View 
+	android:layout_width="fill_parent" 
+	android:layout_height="1dip" 
+	android:background="#FFFFFFFF"
+	android:layout_marginTop="2pt" 
+	  /> 
+<RadioGroup
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:id="@+id/acc_type_group"
+	>
+	<RadioButton
+		android:layout_height="wrap_content"
+		android:id="@+id/gtalk_radio"
+		android:text="GTalk"
+		
+		/>
+	<RadioButton
+		android:layout_height="wrap_content"
+		android:id="@+id/facebook_radio"
+		android:text="Facebook"
+		
+		/>
+	<RadioButton
+		android:layout_height="wrap_content"
+		android:id="@+id/bluetooth_radio"
+		android:text="Bluetooth"
+		
+		/>
+</RadioGroup>
+<View 
+	android:layout_width="fill_parent" 
+	android:layout_height="1dip" 
+	android:background="#FFFFFFFF"
+	  /> 
+<Button
+	android:id="@+id/next_btn"
+	android:layout_width="100px"
+	android:layout_height="wrap_content"
+	android:layout_gravity="right"
+	android:layout_marginTop="5pt"
+	android:text="@string/next_label"
+	
+	/>
+</LinearLayout>

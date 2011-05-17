@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Background" parent="android:Theme">
+        <item name="android:windowBackground">@color/listbg</item>
+        <item name="android:divider">@color/list_divider</item>
+    </style>
+</resources>

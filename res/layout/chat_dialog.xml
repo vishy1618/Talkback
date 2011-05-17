@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabHost android:layout_width="fill_parent"
+	android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@android:id/tabhost">
+	<LinearLayout android:id="@+id/LinearLayout01"
+		android:orientation="vertical" android:layout_height="fill_parent"
+		android:layout_width="fill_parent">
+		<TabWidget android:id="@android:id/tabs"
+			android:layout_height="wrap_content" android:layout_width="fill_parent"></TabWidget>
+		<FrameLayout android:id="@android:id/tabcontent"
+			android:layout_height="fill_parent" android:layout_width="fill_parent">
+			<LinearLayout android:id="@+id/tab_content_layout"
+				android:layout_width="fill_parent" android:layout_height="fill_parent"
+				android:orientation="vertical">
+
+				<ListView android:id="@+id/chat_text" android:layout_width="fill_parent"
+					android:layout_height="fill_parent" android:stackFromBottom="true"
+					android:transcriptMode="alwaysScroll" android:layout_weight="1" />
+
+				<LinearLayout android:orientation="horizontal"
+					android:layout_width="fill_parent" android:layout_height="wrap_content"
+					android:background="@color/listbg" android:paddingTop="2dip">
+					<EditText android:id="@+id/my_msg_edit"
+						android:layout_width="wrap_content" android:layout_height="fill_parent"
+						android:layout_weight="1" android:layout_gravity="bottom"
+						android:hint="@string/chat_entry_hint" />
+					<Button android:id="@+id/msg_send_button"
+						android:layout_width="wrap_content" android:layout_height="fill_parent"
+						android:text="@string/chat_send_str" />
+				</LinearLayout>
+			</LinearLayout>
+		</FrameLayout>
+	</LinearLayout>
+
+</TabHost>

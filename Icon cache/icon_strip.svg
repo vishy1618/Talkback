@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="728px"
+   height="90px"
+   id="svg3258"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="icon_strip.svg">
+  <defs
+     id="defs3260">
+    <linearGradient
+       id="SVGID_1_"
+       gradientUnits="userSpaceOnUse"
+       x1="77.711403"
+       y1="-0.80080003"
+       x2="77.711403"
+       y2="28.2001">
+      <stop
+         offset="0"
+         style="stop-color:#808080"
+         id="stop237" />
+      <stop
+         offset="1"
+         style="stop-color:#1A1A1A"
+         id="stop239" />
+    </linearGradient>
+    <linearGradient
+       id="SVGID_2_"
+       gradientUnits="userSpaceOnUse"
+       x1="6.8062"
+       y1="28.485399"
+       x2="6.8062"
+       y2="42.524899"
+       gradientTransform="matrix(1.108211,0,0,1.108211,478.29503,20.630833)">
+      <stop
+         offset="0"
+         style="stop-color:#0C80C4"
+         id="stop244" />
+      <stop
+         offset="1"
+         style="stop-color:#0A659B"
+         id="stop246" />
+    </linearGradient>
+    <linearGradient
+       id="SVGID_3_"
+       gradientUnits="userSpaceOnUse"
+       x1="24.75"
+       y1="28.566401"
+       x2="24.75"
+       y2="45.2892"
+       gradientTransform="matrix(1.108211,0,0,1.108211,478.29503,20.630833)">
+      <stop
+         offset="0"
+         style="stop-color:#ED1A3B"
+         id="stop251" />
+      <stop
+         offset="1"
+         style="stop-color:#D82037"
+         id="stop253" />
+    </linearGradient>
+    <linearGradient
+       id="SVGID_4_"
+       gradientUnits="userSpaceOnUse"
+       x1="39.597698"
+       y1="23.257799"
+       x2="39.597698"
+       y2="43.780201"
+       gradientTransform="matrix(1.108211,0,0,1.108211,478.29503,20.630833)">
+      <stop
+         offset="0"
+         style="stop-color:#FEE000"
+         id="stop258" />
+      <stop
+         offset="1"
+         style="stop-color:#F9B118"
+         id="stop260" />
+    </linearGradient>
+    <linearGradient
+       id="SVGID_5_"
+       gradientUnits="userSpaceOnUse"
+       x1="55.8452"
+       y1="29.503901"
+       x2="55.8452"
+       y2="40.5075"
+       gradientTransform="matrix(1.108211,0,0,1.108211,478.29503,20.630833)">
+      <stop
+         offset="0"
+         style="stop-color:#14AE4B"
+         id="stop265" />
+      <stop
+         offset="1"
+         style="stop-color:#119948"
+         id="stop267" />
+    </linearGradient>
+    <linearGradient
+       y2="28.2001"
+       x2="77.711403"
+       y1="-0.80080003"
+       x1="77.711403"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3334"
+       xlink:href="#SVGID_1_"
+       inkscape:collect="always"
+       gradientTransform="matrix(1.108211,0,0,1.108211,478.29503,20.630833)" />
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-94.412003,79.221054,79.221054,94.412018,186.62012,113.87402)"
+       spreadMethod="pad"
+       id="linearGradient4272">
+      <stop
+         style="stop-opacity:1;stop-color:#ffffff"
+         offset="0"
+         id="stop4274" />
+      <stop
+         style="stop-opacity:1;stop-color:#efefef"
+         offset="0.093399"
+         id="stop4276" />
+      <stop
+         style="stop-opacity:1;stop-color:#ffffff"
+         offset="0.219788"
+         id="stop4278" />
+      <stop
+         style="stop-opacity:1;stop-color:#efefef"
+         offset="0.31868"
+         id="stop4280" />
+      <stop
+         style="stop-opacity:1;stop-color:#ffffff"
+         offset="0.467026"
+         id="stop4282" />
+      <stop
+         style="stop-opacity:1;stop-color:#efefef"
+         offset="0.626373"
+         id="stop4284" />
+      <stop
+         style="stop-opacity:1;stop-color:#ffffff"
+         offset="0.769226"
+         id="stop4286" />
+      <stop
+         style="stop-opacity:1;stop-color:#ffffff"
+         offset="1"
+         id="stop4288" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4252">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,283.465 283.465,0 L 283.465,0 0,0 0,283.465 z"
+         id="path4254" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-59.821625,-164.35857,-164.35857,59.821625,172.33008,235.54883)"
+       spreadMethod="pad"
+       id="linearGradient4240">
+      <stop
+         style="stop-opacity:1;stop-color:#4888cb"
+         offset="0"
+         id="stop4242" />
+      <stop
+         style="stop-opacity:1;stop-color:#4262a6"
+         offset="1"
+         id="stop4244" />
+    </linearGradient>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-68.102539,-68.102539,0,141.91504,115.49023)"
+       spreadMethod="pad"
+       id="linearGradient4162">
+      <stop
+         style="stop-opacity:1;stop-color:#4888cb"
+         offset="0"
+         id="stop4164" />
+      <stop
+         style="stop-opacity:1;stop-color:#6bb1e6"
+         offset="1"
+         id="stop4166" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4110">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,283.465 283.465,0 L 283.465,0 0,0 0,283.465 z"
+         id="path4112" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4122">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 133.834,63.4619 15.469,0 0,-16.4082 -15.469,0 0,16.4082 z"
+         id="path4124" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.598114,14.734604,14.734604,-2.598114,139.92285,47.238281)"
+       spreadMethod="pad"
+       id="linearGradient4130">
+      <stop
+         style="stop-opacity:1;stop-color:#4888cb"
+         offset="0"
+         id="stop4132" />
+      <stop
+         style="stop-opacity:1;stop-color:#6bb1e6"
+         offset="1"
+         id="stop4134" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75"
+     inkscape:cx="439.64212"
+     inkscape:cy="65.347808"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1090"
+     inkscape:window-height="448"
+     inkscape:window-x="139"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       orientation="0,1"
+       position="689.19341,158.39192"
+       id="guide4747" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="638.28172,-65.996633"
+       id="guide4749" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="664.68037,-65.996633"
+       id="guide4751" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3263">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:url(#linearGradient3334)"
+       inkscape:connector-curvature="0"
+       d="m 553.59019,56.11575 c -0.0898,-0.257105 0.0211,-0.543023 0.25933,-0.672684 l 0,0 c -0.002,-0.0066 1.14368,-0.612839 2.55443,-1.824115 l 0,0 c 1.27443,-1.09048 2.73839,-2.654166 3.71916,-4.625673 l 0,0 c -8.64294,-1.417402 -15.24456,-7.034924 -15.27115,-14.002246 l 0,0 c 0.041,-8.081075 8.87898,-14.357983 19.56214,-14.360199 l 0,0 c 10.68648,0.0021 19.52114,6.279124 19.56436,14.35909 l 0,0 c -0.0266,7.103634 -6.8964,12.805379 -15.78979,14.079822 l 0,0 c -1.68338,2.511206 -5.51779,5.889033 -13.97787,7.407282 l 0,0 c -0.0321,0.0044 -0.0654,0.0089 -0.0975,0.0089 l 0,0 c -0.23051,0 -0.4444,-0.147392 -0.52309,-0.370142 l 0,0 z m -2.29177,-30.439232 c -3.33682,2.425874 -5.34048,5.71837 -5.34048,9.313405 l 0,0 c -0.0266,6.356699 6.38331,11.847885 15.05173,13.014831 l 0,0 c 0.16955,0.01995 0.3236,0.123011 0.40672,0.27262 l 0,0 c 0.0853,0.149608 0.0964,0.331355 0.0299,0.490937 l 0,0 c -1.16473,2.73174 -3.14955,4.750901 -4.72099,6.026453 l 0,0 c 6.53402,-1.690023 9.39432,-4.545883 10.66986,-6.53623 l 0,0 c 0.0853,-0.138526 0.23273,-0.2294 0.39231,-0.251564 l 0,0 c 8.68504,-1.15808 15.10935,-6.653699 15.08053,-13.017047 l 0,0 c 0.002,-3.595035 -2.00364,-6.887531 -5.33715,-9.313405 l 0,0 c -3.32906,-2.420333 -7.97468,-3.937474 -13.11678,-3.935257 l 0,0 c -0.004,0 -0.008,0 -0.0121,0 l 0,0 c -5.13656,0 -9.77553,1.517141 -13.10349,3.935257 l 0,0 z"
+       id="path241"
+       inkscape:export-filename="/home/vish/workspace/Talkback/Icon cache/icon_strip.png"
+       inkscape:export-xdpi="48.322727"
+       inkscape:export-ydpi="48.322727" />
+    <path
+       style="fill:url(#SVGID_2_)"
+       inkscape:connector-curvature="0"
+       d="m 493.37999,68.147598 -1.94491,1.042826 c -1.51826,0.853323 -2.89354,0.949737 -3.60501,0.949737 -3.98403,0 -6.49966,-2.086761 -6.49966,-7.166801 0,-1.088263 0,-3.649339 0.0488,-5.738317 l 0.14296,-7.305327 h -3.2271 v -4.364135 l 3.2271,0.09531 0.1884,-8.539874 h 5.78707 l -0.18951,8.539874 5.31277,-0.09531 v 4.364135 h -5.31277 l -0.14073,7.021625 c -0.0488,2.37268 -0.0488,4.555856 -0.0488,6.309046 0,1.562577 0.52085,2.513422 1.94491,2.513422 0.99628,0 1.8496,-0.567404 2.65749,-1.138132 l 1.65899,3.511921 z"
+       id="path248"
+       inkscape:export-filename="/home/vish/workspace/Talkback/Icon cache/icon_strip.png"
+       inkscape:export-xdpi="48.322727"
+       inkscape:export-ydpi="48.322727" />
+    <path
+       style="fill:url(#SVGID_3_)"
+       inkscape:connector-curvature="0"
+       d="m 495.61857,49.741321 c 5.21857,-4.266613 7.87606,-4.837342 10.43714,-4.837342 3.55735,0 6.83101,2.231937 6.83101,6.878667 0,0.853322 0,1.374181 -0.0466,1.993671 l -0.19062,6.877558 c -0.0465,1.088263 -0.0942,1.993671 -0.0942,2.986628 0,1.326529 0.66381,2.277374 1.27999,2.277374 0.28591,0 0.71258,-0.142959 1.70885,-0.617274 l 1.37529,2.891323 c -2.51452,1.6601 -3.88981,1.948235 -4.9814,1.948235 -2.03911,0 -3.70032,-1.185786 -4.12698,-3.179457 -1.70775,1.993671 -3.84327,3.179457 -6.11955,3.179457 -4.26882,0 -7.16347,-2.702927 -7.16347,-6.971756 0,-3.844384 2.46799,-7.1668 12.80871,-8.872337 v -1.564794 c 0,-2.65749 -1.13703,-3.179458 -2.75059,-3.179458 -1.18578,0 -2.60873,0.476531 -6.21374,3.272549 l -2.7539,-3.083044 z m 11.67057,8.255063 c -5.50448,1.23344 -7.25767,2.563294 -7.25767,4.978084 0,1.757623 1.23233,2.80045 3.03539,2.80045 1.18579,0 2.75058,-0.7558 4.12809,-2.227504 l 0.0942,-5.55103 z"
+       id="path255"
+       inkscape:export-filename="/home/vish/workspace/Talkback/Icon cache/icon_strip.png"
+       inkscape:export-xdpi="48.322727"
+       inkscape:export-ydpi="48.322727" />
+    <path
+       style="fill:url(#SVGID_4_)"
+       inkscape:connector-curvature="0"
+       d="m 519.42738,33.898336 h 5.78596 l -0.28369,35.578007 h -5.78819 l 0.28592,-35.578007 z"
+       id="path262"
+       inkscape:export-filename="/home/vish/workspace/Talkback/Icon cache/icon_strip.png"
+       inkscape:export-xdpi="48.322727"
+       inkscape:export-ydpi="48.322727" />
+    <path
+       style="fill:url(#SVGID_5_)"
+       inkscape:connector-curvature="0"
+       d="m 530.38759,33.898336 h 5.78597 l -0.28481,22.816956 h 0.0953 l 10.15123,-12.569329 4.12808,3.460943 -8.34926,9.394305 8.34926,10.670964 -4.74425,3.27698 -9.53505,-13.187711 h -0.0953 v 11.716007 h -5.78708 l 0.28592,-35.579115 z"
+       id="path269"
+       inkscape:export-filename="/home/vish/workspace/Talkback/Icon cache/icon_strip.png"
+       inkscape:export-xdpi="48.322727"
+       inkscape:export-ydpi="48.322727" />
+    <g
+       id="g271"
+       transform="matrix(1.108211,0,0,1.108211,478.29503,20.630833)"
+       inkscape:export-filename="/home/vish/workspace/Talkback/Icon cache/icon_strip.png"
+       inkscape:export-xdpi="48.322727"
+       inkscape:export-ydpi="48.322727">
+      <g
+         id="g273">
+        <path
+           style="fill:#a7a6a6"
+           inkscape:connector-curvature="0"
+           d="m 78.593,2.227 c 6.007,1.662 10.322,6.164 10.322,11.472 0,3.674 -2.074,6.961 -5.338,9.193 5.456,-1.867 9.171,-5.543 9.171,-9.777 0,-5.426 -6.102,-9.931 -14.155,-10.888 z"
+           id="path275" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.53763441,0,0,0.53763441,372.75807,10.641398)"
+       id="Layer_2"
+       inkscape:export-filename="/home/vish/workspace/Talkback/Icon cache/icon_strip.png"
+       inkscape:export-xdpi="48.322727"
+       inkscape:export-ydpi="48.322727">
+      <path
+         style="fill:#3b5998"
+         inkscape:connector-curvature="0"
+         d="m 126,118 c 0,4.418 -3.582,8 -8,8 H 10 c -4.418,0 -8,-3.582 -8,-8 V 10 C 2,5.582 5.582,2 10,2 h 108 c 4.418,0 8,3.582 8,8 v 108 z"
+         id="path5" />
+    </g>
+    <g
+       transform="matrix(0.53763441,0,0,0.53763441,372.75807,10.641398)"
+       id="Layer_4"
+       inkscape:export-filename="/home/vish/workspace/Talkback/Icon cache/icon_strip.png"
+       inkscape:export-xdpi="48.322727"
+       inkscape:export-ydpi="48.322727">
+      <g
+         id="g8">
+        <rect
+           style="fill:#6d84b4"
+           x="5.6669998"
+           y="98.980003"
+           width="116.666"
+           height="18.039"
+           id="rect10" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.53763441,0,0,0.53763441,372.75807,10.641398)"
+       id="Layer_3"
+       inkscape:export-filename="/home/vish/workspace/Talkback/Icon cache/icon_strip.png"
+       inkscape:export-xdpi="48.322727"
+       inkscape:export-ydpi="48.322727">
+      <path
+         style="fill:#ffffff"
+         inkscape:connector-curvature="0"
+         d="M 93.376,117.012 H 72.203 V 65.767 H 61.625 V 48.107 H 72.203 V 37.504 c 0,-14.407 5.973,-22.974 22.943,-22.974 h 14.128 v 17.662 h -8.831 c -6.606,0 -7.043,2.468 -7.043,7.074 l -0.024,8.839 h 15.998 l -1.872,17.66 H 93.376 v 51.247 z"
+         id="path13" />
+    </g>
+    <g
+       transform="matrix(0.33102061,0,0,-0.33102061,246.28824,94.270497)"
+       id="g4106"
+       inkscape:export-filename="/home/vish/workspace/Talkback/Icon cache/icon_strip.png"
+       inkscape:export-xdpi="48.322727"
+       inkscape:export-ydpi="48.322727">
+      <g
+         id="g4108"
+         clip-path="url(#clipPath4110)">
+        <g
+           id="g4114"
+           transform="translate(247.9824,113.9609)">
+          <path
+             inkscape:connector-curvature="0"
+             d="M 0,0 C 0.59,-0.649 0.39,-1.5 -0.61,-2.13 L -103.92,-66.3 c -1.32,-0.82 -3.48,-0.809 -4.8,0.03 l -102.82,65.331 c -0.92,0.58 -1.15,1.359 -0.71,1.989 0.17,0.27 0.479,0.511 0.9,0.7 l 102.44,46.65 c 1.42,0.651 3.74,0.64 5.16,-0.019 L -0.78,0.561 C -0.44,0.4 -0.17,0.21 0,0"
+             style="fill:#4888cb;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4116" />
+        </g>
+        <g
+           id="g4118">
+          <g
+             id="g4120" />
+          <g
+             id="g4136">
+            <g
+               style="opacity:0.5"
+               clip-path="url(#clipPath4122)"
+               id="g4138">
+              <g
+                 id="g4140">
+                <g
+                   id="g4142">
+                  <g
+                     id="g4144">
+                    <g
+                       id="g4146">
+                      <path
+                         inkscape:connector-curvature="0"
+                         d="m 134.078,63.462 -0.244,-12.029 5.179,-3.742 c 1.319,-0.839 3.479,-0.85 4.8,-0.03 l 5.49,3.41 -15.225,12.391 z"
+                         style="fill:url(#linearGradient4130);stroke:none"
+                         id="path4148" />
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.33102061,0,0,-0.33102061,246.28824,94.270497)"
+       id="g4150"
+       inkscape:export-filename="/home/vish/workspace/Talkback/Icon cache/icon_strip.png"
+       inkscape:export-xdpi="48.322727"
+       inkscape:export-ydpi="48.322727">
+      <g
+         id="g4152">
+        <g
+           id="g4158">
+          <g
+             id="g4160">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 35.733,115.013 c -0.441,-0.627 -0.211,-1.402 0.71,-1.98 l 0,0 102.82,-65.011 c 1.319,-0.836 3.479,-0.846 4.801,-0.029 l 0,0 103.309,63.855 c 1,0.628 1.2,1.475 0.61,2.121 l 0,0 c -0.101,0.124 -0.246,0.237 -0.412,0.346 l 0,0 c -0.064,-0.048 -0.125,-0.098 -0.198,-0.143 l 0,0 -103.309,-63.858 c -1.322,-0.816 -3.482,-0.805 -4.801,0.031 l 0,0 -102.82,65.012 c -0.069,0.041 -0.125,0.087 -0.186,0.133 l 0,0 c -0.224,-0.144 -0.414,-0.301 -0.524,-0.477"
+               style="fill:url(#linearGradient4162);stroke:none"
+               id="path4168" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.33102061,0,0,-0.33102061,246.28824,94.270497)"
+       id="g4228"
+       inkscape:export-filename="/home/vish/workspace/Talkback/Icon cache/icon_strip.png"
+       inkscape:export-xdpi="48.322727"
+       inkscape:export-ydpi="48.322727">
+      <g
+         id="g4230">
+        <g
+           id="g4236">
+          <g
+             id="g4238">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 133.744,245.048 0,-66.467 -26.246,26.54 -1.368,1.383 -1.42,-1.329 -10.333,-9.667 -1.496,-1.401 1.435,-1.461 34.964,-35.605 -34.638,-35.599 -1.398,-1.437 1.441,-1.396 10,-9.667 1.454,-1.404 1.389,1.468 26.216,27.686 0,-68.644 0,-4.586 3.359,3.12 56.002,52 1.54,1.43 -1.506,1.468 -37.163,36.202 37.131,34.569 1.584,1.475 -1.596,1.462 -56.001,51.334 -3.35,3.071 0,-4.545 z m 17.667,-34.334 16.136,-15.368 -16.136,-16.136 0,31.504 z m 0,-74.162 16.136,-16.136 -16.136,-15.368 0,31.504 z"
+               style="fill:url(#linearGradient4240);stroke:none"
+               id="path4246" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.33102061,0,0,-0.33102061,246.28824,94.270497)"
+       id="g4248"
+       inkscape:export-filename="/home/vish/workspace/Talkback/Icon cache/icon_strip.png"
+       inkscape:export-xdpi="48.322727"
+       inkscape:export-ydpi="48.322727">
+      <g
+         id="g4250"
+         clip-path="url(#clipPath4252)">
+        <g
+           id="g4256"
+           transform="translate(151.4102,105.0479)">
+          <path
+             inkscape:connector-curvature="0"
+             d="M 0,0 0,31.505 16.137,15.368 0,0 z M 0,74.162 0,105.666 16.137,90.298 0,74.162 z m -17.667,70.384 0,-4.546 0,-66.467 -26.245,26.54 -1.368,1.383 -1.42,-1.329 -10.333,-9.667 -1.496,-1.4 1.435,-1.462 34.963,-35.605 -34.637,-35.598 -1.399,-1.438 1.442,-1.395 10,-9.667 1.454,-1.405 1.389,1.468 26.215,27.687 0,-68.645 0,-4.586 3.36,3.12 56.001,52 1.54,1.431 -1.505,1.468 -37.163,36.201 37.13,34.569 1.584,1.475 -1.595,1.463 -56,51.333 -3.352,3.072 z"
+             style="fill:none;stroke:#496db7;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             id="path4258" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.33102061,0,0,-0.33102061,246.28824,94.270497)"
+       id="g4260"
+       inkscape:export-filename="/home/vish/workspace/Talkback/Icon cache/icon_strip.png"
+       inkscape:export-xdpi="48.322727"
+       inkscape:export-ydpi="48.322727">
+      <g
+         id="g4262">
+        <g
+           id="g4268">
+          <g
+             id="g4270">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 135.786,173.695 -29.667,30 -10.333,-9.668 36.333,-37 -36,-36.998 10,-9.667 29.667,31.332 0,-73.666 56,52.001 -38.667,37.665 38.667,36 -56,51.334 0,-71.333 z m 13.667,41.666 21,-20 -21,-21 0,41 z m 0,-74 21,-21 -21,-19.999 0,40.999 z"
+               style="fill:url(#linearGradient4272);stroke:none"
+               id="path4290" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

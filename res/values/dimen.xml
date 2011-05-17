@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="heading">20pt</dimen>
+<dimen name="account_heading">15pt</dimen>
+<dimen name="cfg_heading">15pt</dimen>
+<dimen name="app_desc_dimen">9pt</dimen>
+</resources>
