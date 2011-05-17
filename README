@@ -1,0 +1,7 @@
+Talkback
+
+This is a multiprotocol chat client for Android devices.
+It uses the Smack (asmack) Java XMPP libraries to chat with GTalk and Bluetooth.
+Additionally, it can also chat through bluetooth.
+
+Support for more protocols is planned.
