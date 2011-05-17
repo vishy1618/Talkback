@@ -1,7 +1,17 @@
 Talkback
+--------
 
 This is a multiprotocol chat client for Android devices.
 It uses the Smack (asmack) Java XMPP libraries to chat with GTalk and Bluetooth.
 Additionally, it can also chat through bluetooth.
 
 Support for more protocols is planned.
+
+RUNNING / INSTALLING:
+
+- The last compiled .apk is in the /bin folder
+- You can use Eclipse or your standard Android SDK tools to compile and run
+- You will want to change the path of the asmack external library when you
+  first compile it, as it currently sets to the local path. You will find the 
+  external library in the /libs folder.
+
